@@ -1,5 +1,7 @@
 # modoki
 
+# This project has been moved to [modoki-paas/modoki](https://github.com/modoki-paas/modoki)
+
 ![Docker Build Status](https://img.shields.io/docker/build/tsuzu/modoki.svg?style=flat-square)
 [![Go Report Card](https://goreportcard.com/badge/github.com/cs3238-tsuzu/modoki)](https://goreportcard.com/report/github.com/cs3238-tsuzu/modoki)
 - PaaS modoki(like PaaS)
